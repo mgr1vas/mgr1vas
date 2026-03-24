@@ -12,6 +12,9 @@ Hello, I am Marios, a 3rd-Year Undergraduate Student at University of Ioannina, 
 ![](https://nirzak-streak-stats.vercel.app/?user=mgr1vas&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgr1vas&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### Weekly Commit Stats:
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mgr1vas&layout=compact&theme=shadow_red)
+
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
