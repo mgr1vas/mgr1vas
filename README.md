@@ -14,8 +14,3 @@ Hello, I am Marios, a 3rd-Year Undergraduate Student at University of Ioannina, 
 
 ### Activity Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgr1vas&bg_color=1a1b27&color=ff5a5f&line=ff3a3f&point=ffffff&area=true&hide_border=false)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
----
-[![](https://visitcount.itsvg.in/api?id=mgr1vas&icon=0&color=4)](https://visitcount.itsvg.in)
