@@ -1,5 +1,5 @@
 # About Me:
-Hello, I am Marios, a 3rd-Year Undergraduate Student at University of Ioannina, dept. Informatics & Telecommunications.<br>My key goal is to master Programming and Cybersecurity.  Here are my key interests!<br>- **Cybersecurity:** Malware analysis and secure coding patterns.<br>- **Infrastructure:** Automation, self-hosting, and "Infrastructure as Code".<br>- **Compiler Theory:** Abstract Syntax Trees and program optimization.<br>"If it's not automated, it's not done."
+Hello, I am Marios, a 4th-Year Undergraduate Student at University of Ioannina, dept. Informatics & Telecommunications.<br>My key goal is to master Programming and Cybersecurity.  Here are my key interests!<br>- **Cybersecurity:** Malware analysis and secure coding patterns.<br>- **Infrastructure:** Automation, self-hosting, and "Infrastructure as Code".<br>- **Compiler Theory:** Abstract Syntax Trees and program optimization.<br>"If it's not automated, it's not done."
 
 
 ## Socials:
